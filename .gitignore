@@ -14,9 +14,6 @@ maiko/
 # because they will get regenerated when you rebuild.
 # MEDLEY-UTILS HCFILES regenerates
 
-*.pdf
-
-
 # all loadup files 
 
 loadups/exports.all
